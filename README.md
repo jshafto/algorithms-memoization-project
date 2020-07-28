@@ -1,5 +1,10 @@
 # Memoization Problems
+Completed as part of the App Academy Curriculum. Implementation by Juliet Shafto and Wren McPherson.
 
+## Project Status
+All problems solved, but the LeetCode problem isn't highly optimized enough for LeetCode's test cases.
+
+## Problem
 This project contains two test-driven problems and one problem on LeetCode.com.
 
 * Clone the project from
